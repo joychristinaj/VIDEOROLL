@@ -1,0 +1,75 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [ 4 0 R 6 0 R 8 0 R ] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 265 >>
+stream
+BT
+/F1 12 Tf
+50 720 Td
+16 TL
+(Chapter 1: Machine Learning Basics) Tj
+T* (Machine learning is a method of data analysis that automates analytical model building.) Tj
+T* (Based on the idea that systems can learn from data, identify patterns and make decisions.) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 7 0 R >>
+endobj
+7 0 obj
+<< /Length 253 >>
+stream
+BT
+/F1 12 Tf
+50 720 Td
+16 TL
+(Chapter 2: Neural Networks) Tj
+T* (Neural networks are a series of algorithms that mimic the operations of a human brain.) Tj
+T* (They recognize underlying relationships in sets of data through a process of learning.) Tj
+ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 9 0 R >>
+endobj
+9 0 obj
+<< /Length 256 >>
+stream
+BT
+/F1 12 Tf
+50 720 Td
+16 TL
+(Chapter 3: Future of AI) Tj
+T* (The future of artificial intelligence holds enormous promise across multiple domains.) Tj
+T* (Ethical considerations around AI include fairness, transparency, privacy, and accountability.) Tj
+ET
+endstream
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000129 00000 n 
+0000000199 00000 n 
+0000000325 00000 n 
+0000000641 00000 n 
+0000000767 00000 n 
+0000001071 00000 n 
+0000001197 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+1504
+%%EOF
